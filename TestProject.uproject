@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{782C06BB-4F87-528B-6B98-AA95AB7386A2}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LeapMotion",
+			"Enabled": true
+		}
+	]
+}
